@@ -1,3 +1,12 @@
+//
+//  GameViewController.swift
+//  Mail Pilot
+//
+//  Modified by Raj Kumar Shahu
+//  Modified on 2021-03-03.
+//  @Description: Adjust the Mail Pilot game so that player can play in landscape orientation.
+
+
 import UIKit
 import SpriteKit
 import GameplayKit
